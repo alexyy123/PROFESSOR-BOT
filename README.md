@@ -87,6 +87,8 @@
 
 🙏 create button your self
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falexyy123%2FPROFESSOR-BOT&env=BOT_TOKEN,API_ID,API_HASH,CHANNELS,ADMINS,DATABASE_URI,DATABASE_NAME,LOG_CHANNEL,Support)
+
 ## Commands
 ```
 start - check bot alive
